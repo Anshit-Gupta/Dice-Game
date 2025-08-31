@@ -7,9 +7,9 @@ const RulesContainer = () => {
         <h2>How to play dice game</h2>
         <div className="text">
             <p>1.Select any number</p>
-            <p>2.Click on dice</p>
-            <p>3.After click,if selected number is equal to dice number you will gain points</p>
-            <p>4.If not equal you will lose 1 point</p>
+            <p>2.Click on the dice to roll</p>
+            <p>3.After clicking,if number rolled is equal to selected number ,you gain points</p>
+            <p>4.If not, you lose 1 point</p>
         </div>
     </Container>
   )
