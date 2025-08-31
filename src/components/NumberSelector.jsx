@@ -62,5 +62,5 @@ const Box=styled.div`
     border:2px solid black;
     cursor: pointer;
     background-color: ${(props)=> props.isSelected? "black":"white"};
-    color:${(props)=> props.isSelected? "white":"blacl"};
+    color:${(props)=> props.isSelected? "white":"black"};
 `
