@@ -1,4 +1,4 @@
-import { main, style } from 'framer-motion/client'
+
 import React from 'react'
 import TotalScore from './TotalScore'
 import NumberSelector from './NumberSelector'
