@@ -5,7 +5,7 @@ A small interactive Dice Game built with React, Vite and styled-components.
 Click a number (1–6), roll the dice — if your selected number matches the dice you gain points (equal to the dice), otherwise you lose 1 point. Built to learn React fundamentals, component design, CSS-in-JS with styled-components and deployment with Vercel.
 
 ## Demo
-Live on Vercel: `https://anshit-dice-game.vercel.app/` 
+Live on Vercel: https://anshit-dice-game.vercel.app/
 
 ## Features
 - Clean component-based structure
